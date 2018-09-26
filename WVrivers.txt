@@ -1,4 +1,3 @@
-Cheat River
 Monongahela River
 Dents Run
 Deckers Creek
@@ -10,4 +9,5 @@ Big Sandy Creek
 Elk River
 New River
 Potomic River
-Youghiogheny River 
+Youghiogheny River
+Cheat River
