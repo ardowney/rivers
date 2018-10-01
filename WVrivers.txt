@@ -10,12 +10,8 @@ New River
 Potomic River
 Youghiogheny River
 Cheat River
-<<<<<<< HEAD
 Mister Whisker River 
 Cat River
-Kitty River
-Love river
-=======
-Ohio River
 Blackwater River 
->>>>>>> e6096afca9ae95af15cca0b7ab3152dca4cf702b
+Davis Spring Creek 
+
